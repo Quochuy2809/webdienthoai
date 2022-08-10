@@ -1,0 +1,14 @@
+img {
+    width: 100% !important;
+    height: 100px !important;
+    object-fit: contain;
+}
+
+h3 {
+    text-align: center;
+    white-space: nowrap;
+}
+
+h6 {
+    text-align: center;
+}

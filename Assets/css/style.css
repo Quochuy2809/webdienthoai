@@ -1,0 +1,14 @@
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #fb5533;
+    border-color: #fb5533;
+}
+
+.fa-star,
+.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+.card {
+    margin-bottom: 50px;
+}
